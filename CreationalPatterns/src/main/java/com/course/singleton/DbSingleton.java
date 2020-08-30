@@ -1,4 +1,4 @@
-package com.pluralsight.singleton;
+package com.course.singleton;
 
 import java.sql.Connection;
 import java.sql.Driver;
