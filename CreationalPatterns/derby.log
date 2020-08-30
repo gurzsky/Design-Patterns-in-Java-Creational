@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 30 15:00:44 BRT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0174-4087-5122-00000e4e6678 
+on database directory memory:/home/gurski/Área de Trabalho/Git/Design-Patterns-in-Java-Creational/CreationalPatterns/codejava/webdb with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/gurski/Documentos/PluralSight/DesignPatternsCreational/design-patterns-java-creational/02/demos/singleton/derby.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_265-8u265-b01-0ubuntu2~18.04-b01
+user.dir=/home/gurski/Área de Trabalho/Git/Design-Patterns-in-Java-Creational/CreationalPatterns
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-42-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
